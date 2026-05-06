@@ -19,7 +19,7 @@ Developed using object-oriented JavaScript using constructors, inheritance and p
 	- Go to MinorScale.js lines 3 - 13 and AugmentedChord.js lines 3 - 11 for examples of some of the subclass implemenations of build().
 
 ## Run Chord and Scale Finder
-Go to http://bdtripp.com/chord_and_scale_finder/
+Go to https://chord-and-scale-finder.bdtripp.com/
 
 ### Input:
 Make selections from the following drop-downs:

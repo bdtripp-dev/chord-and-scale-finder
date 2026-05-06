@@ -1,0 +1,4 @@
+services:
+  chord-and-scale-finder:
+    ports:
+      - "8085:80"
